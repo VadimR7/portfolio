@@ -57,7 +57,6 @@ const Projects = () => {
                       >
                         See Live
                       </a>
-
                       {repo && (
                         <a
                           target="_blank"
